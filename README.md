@@ -2,7 +2,7 @@
 
 ### Objective
 
-This project aims to develop a predictive model for the classification of breast cancer, distinguishing between benign and malignant cases. Additionally, the model provides the ability to classify whether a patient has benign cancer or malignant cancer.
+This project aims to develop a predictive model for the classification of breast cancer, distinguishing between benign and malignant cases.
 
 ### Workflow
 
