@@ -1,4 +1,4 @@
-## Breast Cancer Prediction
+## Cancer type Prediction
 
 ### Objective
 
